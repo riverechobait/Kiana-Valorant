@@ -1,0 +1,16 @@
+  _  ___                    ____ _               _
+ | |/ (_) __ _ _ __   __ _  / ___| |__   ___  __ _| |_
+ | ' /| |/ _` | '_ \ / _` || |   | '_ \ / _ \/ _` | __|
+ | . \| | (_| | | | | (_| || |___| | | |  __/ (_| | |_
+ |_|\_\_|\__,_|_| |_|\__,_| \____|_| |_|\___|\__,_|\__|
+
+Kiana Cheat. Third-party software targeting Riot Games Valorant.
+
+
+[+] DOWNLOAD LINK: https://telegra.ph/Download-05-21-39
+- Category: third-party Valorant tooling.
+- Game: Valorant uses Vanguard kernel-level anti-cheat; use violates Riot Terms of Service and may result in hardware ID ban.
+
+
+TAGS
+kiana, kiana-valorant, valorant, third-party-software
